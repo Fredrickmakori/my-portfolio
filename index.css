@@ -1,0 +1,23 @@
+.text {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: #f44336;
+}
+* {
+  background-color: white;
+}
+nav {
+  float: left;
+  text-decoration: none;
+  margin-left: 10%;
+}
+a {
+  font-size: large;
+  color: blue;
+  font-display: block;
+}
+a:hover {
+  text-decoration: wavy;
+  font-style: italic;
+  color: #f06292;
+}
